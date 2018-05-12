@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5239
     wikipedia: http://en.wikipedia.org/wiki/Sidney_Gulick
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13831#Evolution-Of-The-Japanese-Social-And-Psychic
 gutenberg_bookshelf: Anthropology
 gutenberg_issued: '2004-10-22'
 gutenberg_type: Text
